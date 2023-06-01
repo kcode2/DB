@@ -3,4 +3,4 @@
 # C:\Users\DINGOO KARTHICK\Desktop\Learning\Coding\RFM\PDF\PDF\RFM\RFM.py: 4
 streamlit == 1.22.0
 pandas == 1.3.5
-sqlite3 ==3.42.0
+
